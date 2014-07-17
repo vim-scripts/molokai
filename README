@@ -1,6 +1,6 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=2340
 
-Molokai is a Vim port of the monokai theme for TextMate originally created by Wimer Hazenberg.
+Molokai is a Vim port of the monokai theme for TextMate originally created by Wimer Hazenberg. This port was created by Tomas Restrepo (http://winterdom.com/) and the author's original repository for this colorscheme can be found at https://github.com/tomasr/molokai.
 
 By default, it has a dark gray background based on the version created by Hamish Stuart Macpherson for the E editor.
 
